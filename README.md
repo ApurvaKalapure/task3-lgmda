@@ -1,1 +1,2 @@
-# task3-lgmda
+# LGM_Task3
+Exploratory Data Analysis on Dataset - Terrorism 
